@@ -68,6 +68,8 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="7iN-gp-7ch" secondAttribute="bottom" constant="75" id="44R-NX-2lA"/>
                             <constraint firstItem="2fl-UH-OQP" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="EqP-K3-c8c"/>
                             <constraint firstItem="2fl-UH-OQP" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="29" id="K1Y-W7-YZ1"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="2fl-UH-OQP" secondAttribute="trailing" constant="147" id="Yz6-UG-xJ0"/>
+                            <constraint firstItem="2fl-UH-OQP" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="147" id="alu-h4-CPG"/>
                         </constraints>
                     </view>
                     <connections>
